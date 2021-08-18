@@ -22,6 +22,7 @@ int main(){
     stu1.score = 92.5f;
     //调用类的成员函数
     stu1.say();
+    stu1.say(); 
 
     return 0;
 }
